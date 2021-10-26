@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tedtalk on Job</title>
+    <link>https://jobfernandez.me/tags/tedtalk/</link>
+    <description>Recent content in tedtalk on Job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jobfernandez.me/tags/tedtalk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TEDxVITAP 2021</title>
+      <link>https://jobfernandez.me/projects/tedxvitap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/projects/tedxvitap/</guid>
+      <description>TEDxVITAP website
+On the 10th of April 2021, VITAP held a TEDxVITAP event, which was named &amp;ldquo;The Unstoppables&amp;rdquo; . I was appointed as the website developer along with some other web developers.
+This website was built using React JS framework.
+I would like to thank Sai Pranay, Vineet Tiwari, and SK Saddam Hossain, who were my teammates in this project. Thank you guys.</description>
+    </item>
+    
+  </channel>
+</rss>

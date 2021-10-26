@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Job</title>
+    <link>https://jobfernandez.me/tags/</link>
+    <description>Recent content in Tags on Job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jobfernandez.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>covid</title>
+      <link>https://jobfernandez.me/tags/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://jobfernandez.me/tags/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ted</title>
+      <link>https://jobfernandez.me/tags/ted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/tags/ted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tedtalk</title>
+      <link>https://jobfernandez.me/tags/tedtalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/tags/tedtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tedx</title>
+      <link>https://jobfernandez.me/tags/tedx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/tags/tedx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
