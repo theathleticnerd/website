@@ -31,6 +31,17 @@ The web application is built using React JS framework and an API to collect the 
     </item>
     
     <item>
+      <title>ICMEC 2022</title>
+      <link>https://jobfernandez.me/projects/icmec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/projects/icmec/</guid>
+      <description>ICMEC 2022 website
+I was assigned to build a website for the International Conference on Modern Electronic Components (ICMEC) which is going to be held at Vellore Institute of Technology, AP in 2022.
+ICMEC 22 –First International Conference being organized by the School of Electronics Engineering at Vellore Institute of Technology, Andhra Pradesh in Coordination with Springer. The focus of this forum is to present the latest developments in the area of Electronic devices , Communication systems and components, Signal Processing and AI for electronic components and Systems bring together the researchers and practitioners, from both academia and industry.</description>
+    </item>
+    
+    <item>
       <title>TEDxVITAP 2021</title>
       <link>https://jobfernandez.me/projects/tedxvitap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

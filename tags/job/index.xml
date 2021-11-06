@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>job on Job</title>
+    <link>https://jobfernandez.me/tags/job/</link>
+    <description>Recent content in job on Job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jobfernandez.me/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICMEC 2022</title>
+      <link>https://jobfernandez.me/projects/icmec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobfernandez.me/projects/icmec/</guid>
+      <description>ICMEC 2022 website
+I was assigned to build a website for the International Conference on Modern Electronic Components (ICMEC) which is going to be held at Vellore Institute of Technology, AP in 2022.
+ICMEC 22 –First International Conference being organized by the School of Electronics Engineering at Vellore Institute of Technology, Andhra Pradesh in Coordination with Springer. The focus of this forum is to present the latest developments in the area of Electronic devices , Communication systems and components, Signal Processing and AI for electronic components and Systems bring together the researchers and practitioners, from both academia and industry.</description>
+    </item>
+    
+  </channel>
+</rss>
